@@ -1,0 +1,5 @@
+Candidate_A	0
+Candidate_B	0
+Candidate_C	0
+Candidate_D	0
+NOTA		0
